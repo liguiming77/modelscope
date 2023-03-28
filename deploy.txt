@@ -1,0 +1,2 @@
+##参照:https://modelscope.cn/models/damo/text-to-video-synthesis/summary
+## download model is saved in /Users/liguiming/.cache/modelscope/hub/damo
